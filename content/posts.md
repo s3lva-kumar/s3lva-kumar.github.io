@@ -1,7 +1,7 @@
 +++
 title = "Posts"
 date = "2023-04-09"
-aliases = ["Posts"]
+aliases = ["Posts","posts"]
 [ author ]
   name = "Selvakumar"
 +++
