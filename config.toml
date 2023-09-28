@@ -191,5 +191,5 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "cv"
     name       = "CV"
-    url    = "cv/cv.pdf"
+    url    = "cv/Selvakumar_cv.pdf"
     target = "_blank"
