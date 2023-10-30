@@ -26,6 +26,10 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: configure domain
+        run: |
+          echo -e "selvakumar.space\nwww.selvakumar.space" > ./public/CNAME
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
