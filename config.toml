@@ -64,7 +64,7 @@ disableHugoGeneratorInject = false
   homeSubtitle = "DevOps Engineer"
 
   # Set a background for the homepage
-  backgroundImage = "static/pic/selva.png"
+  backgroundImage = ""
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
@@ -154,10 +154,10 @@ disableHugoGeneratorInject = false
 
   # Uncomment this if you want a portrait on your start page
   #
-  [params.portrait]
-    path     = "./static/pic/selva.png"
-    alt      = "Portrait"
-    maxWidth = "50px"
+  #[params.portrait]
+  #  path     = ""
+  #  alt      = "Portrait"
+  #  maxWidth = "50px"
 
   # Social icons
 
