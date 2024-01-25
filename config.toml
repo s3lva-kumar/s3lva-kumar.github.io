@@ -1,4 +1,4 @@
-baseURL = "https://selvakumar.space"
+baseURL = "https://selvakumar.dev"
 title   = "Selvakumar"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -25,12 +25,12 @@ buildExpired = false
 canonifyURLs = true
 
 enableRobotsTXT = true
-enableGitInfo   = false
+enableGitInfo   = true
 enableEmoji     = true
 enableMissingTranslationPlaceholders = false
 disableRSS     = false
 disableSitemap = false
-disable404     = false
+disable404     = true
 disableHugoGeneratorInject = false
 
 [permalinks]
@@ -68,7 +68,7 @@ disableHugoGeneratorInject = false
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
-  # gitUrl = ""
+  gitUrl = "https://github.com/s3lva-kumar/"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   #
