@@ -28,7 +28,7 @@ jobs:
 
       - name: configure domain
         run: |
-          echo -e "selvakumar.space\nwww.selvakumar.space" > ./public/CNAME
+          echo -e "selvakumar.dev\nwww.selvakumar.dev" > ./public/CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
