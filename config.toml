@@ -64,7 +64,7 @@ disableHugoGeneratorInject = false
   homeSubtitle = "DevOps Engineer"
 
   # Set a background for the homepage
-  backgroundImage = "static/pic/black-background.jpg"
+  backgroundImage = "pic/black-background.jpg"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
